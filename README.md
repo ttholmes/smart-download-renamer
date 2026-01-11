@@ -28,21 +28,19 @@ O Smart Download Renamer intercepta downloads em navegadores Chromium e propõe 
 
 **Paper Acadêmico:**
 Antes: 2301.12345v1.pdf
-Depois: 20260111-Attention-Is-All-You-Need-Vaswani-NLP.pdf
 
-text
+Depois: 20260111-Attention-Is-All-You-Need-Vaswani-NLP.pdf
 
 **ROM de Jogo:**
 Antes: fflII-Version-(USA,-Europe).zip
-Depois: Final-Fantasy-Legend-II-GBA-USA.zip
 
-text
+Depois: Final-Fantasy-Legend-II-GBA-USA.zip
 
 **Aplicativo do GitHub:**
 Antes: zen-macos-universal.dmg
+
 Depois: Zen-Browser-MacOS-Universal.dmg
 
-text
 
 ## 📸 Demo & Screenshots
 
