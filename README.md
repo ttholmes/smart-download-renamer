@@ -1,6 +1,8 @@
 # Smart Download Renamer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=google-chrome&logoColor=white)](link-futuro)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > Renomeie automaticamente arquivos baixados com inteligência contextual — localmente, com suporte opcional a modelos LLM via Ollama.
 
@@ -12,9 +14,6 @@ O Smart Download Renamer intercepta downloads em navegadores Chromium e propõe 
   <img src="screenshots/demo.gif" alt="Demo" width="600">
 </p>
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=google-chrome&logoColor=white)](link-futuro)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## ✨ Funcionalidades principais
 
@@ -27,16 +26,19 @@ O Smart Download Renamer intercepta downloads em navegadores Chromium e propõe 
 ### Exemplos de Renomeação
 
 **Paper Acadêmico:**
+
 Antes: 2301.12345v1.pdf
 
 Depois: 20260111-Attention-Is-All-You-Need-Vaswani-NLP.pdf
 
 **ROM de Jogo:**
+
 Antes: fflII-Version-(USA,-Europe).zip
 
 Depois: Final-Fantasy-Legend-II-GBA-USA.zip
 
 **Aplicativo do GitHub:**
+
 Antes: zen-macos-universal.dmg
 
 Depois: Zen-Browser-MacOS-Universal.dmg
